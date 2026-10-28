@@ -1,0 +1,6 @@
+# 데이터는 저장소에 포함하지 않음 (Kaggle에서 직접 다운로드)
+*.csv
+
+.ipynb_checkpoints/
+__pycache__/
+catboost_info/
